@@ -1,4 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 I need to manually add the new file to the repository.
 
-
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It is a temporary area that stores the ready-to-be commited changes. It allows you to flexibly commit what ever files you want.
