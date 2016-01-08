@@ -6,3 +6,6 @@ It is a temporary area that stores the ready-to-be commited changes. It allows y
 
 How can you use the staging area to make sure you have one commit per logical change?
 You add to the staging area each time you make a logical move.
+
+How do the diagrams help you visualize the branch structure?
+It helps me show how to branch look like.
