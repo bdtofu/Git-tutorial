@@ -3,3 +3,6 @@ I need to manually add the new file to the repository.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It is a temporary area that stores the ready-to-be commited changes. It allows you to flexibly commit what ever files you want.
+
+How can you use the staging area to make sure you have one commit per logical change?
+You add to the staging area each time you make a logical move.
