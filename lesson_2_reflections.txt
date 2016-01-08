@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+I need to manually add the new file to the repository.
+
+
